@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "R 500"; ObjectID = "6E3-0B-2m1"; */
+"6E3-0B-2m1.text" = "R 500";
+
+/* Class = "UILabel"; text = "CARD"; ObjectID = "HJW-sb-hMT"; */
+"HJW-sb-hMT.text" = "CARD";
+
+/* Class = "UILabel"; text = "3 Jan 2022"; ObjectID = "Kvy-9z-bvl"; */
+"Kvy-9z-bvl.text" = "3 Jan 2022";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "PkW-xz-lCQ"; */
+"PkW-xz-lCQ.text" = "Amount";
+
+/* Class = "UILabel"; text = "Credited by"; ObjectID = "UrQ-IS-s1B"; */
+"UrQ-IS-s1B.text" = "Credited by";

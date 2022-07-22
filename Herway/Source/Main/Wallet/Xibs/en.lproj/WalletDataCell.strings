@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Wallit Amount"; ObjectID = "1KA-VE-ehj"; */
+"1KA-VE-ehj.text" = "Wallet Amount";
+
+/* Class = "UILabel"; text = "R - 4456.67"; ObjectID = "ELW-qq-NMv"; */
+"ELW-qq-NMv.text" = "R - 4456.67";
+
+/* Class = "UILabel"; text = "Add Money"; ObjectID = "TVN-5d-j6c"; */
+"TVN-5d-j6c.text" = "Add Money";
+
+/* Class = "UIButton"; normalTitle = "ADD AMOUNT"; ObjectID = "VtP-mr-m66"; */
+"VtP-mr-m66.normalTitle" = "ADD AMOUNT";
+
+/* Class = "UILabel"; text = "ZK"; ObjectID = "WPX-ls-bXF"; */
+"WPX-ls-bXF.text" = "ZK";
+
+/* Class = "UILabel"; text = "Pay By Card"; ObjectID = "k55-JG-3z9"; */
+"k55-JG-3z9.text" = "Pay By Card";
+
+/* Class = "UILabel"; text = "Payment Methods"; ObjectID = "l2w-Gk-zgp"; */
+"l2w-Gk-zgp.text" = "Payment Methods";
+
+/* Class = "UILabel"; text = "ZK 50"; ObjectID = "oM2-mF-gP7"; */
+"oM2-mF-gP7.text" = "ZK 50";
+
+/* Class = "UILabel"; text = "ZK 20"; ObjectID = "qsz-ms-kd8"; */
+"qsz-ms-kd8.text" = "ZK 20";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "t9O-qs-EPW"; */
+"t9O-qs-EPW.placeholder" = "0";
+
+/* Class = "UILabel"; text = "ZK 10"; ObjectID = "vKy-cr-OJY"; */
+"vKy-cr-OJY.text" = "ZK 10";

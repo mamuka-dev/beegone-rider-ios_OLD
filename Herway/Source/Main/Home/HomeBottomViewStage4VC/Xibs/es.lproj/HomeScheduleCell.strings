@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Schedule a Ride"; ObjectID = "5CU-Lh-uOf"; */
+"5CU-Lh-uOf.text" = "Programar un viaje";
+
+/* Class = "UIButton"; normalTitle = "SCHEDULE REQUEST"; ObjectID = "Lq0-cP-cTk"; */
+"Lq0-cP-cTk.normalTitle" = "SOLICITUD DE HORARIO";
+
+/* Class = "UILabel"; text = "Select Date"; ObjectID = "hgT-hl-csb"; */
+"hgT-hl-csb.text" = "Seleccione fecha";

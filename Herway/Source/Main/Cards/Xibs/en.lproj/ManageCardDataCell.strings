@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "Expiration Date"; ObjectID = "CO9-v8-3WV"; */
+"CO9-v8-3WV.placeholder" = "Expiration Date";
+
+/* Class = "UITextField"; placeholder = "CVV"; ObjectID = "LPt-uz-ay7"; */
+"LPt-uz-ay7.placeholder" = "CVV";
+
+/* Class = "UIButton"; normalTitle = "ADD CARD"; ObjectID = "Qsy-YQ-fjw"; */
+"Qsy-YQ-fjw.normalTitle" = "ADD CARD";
+
+/* Class = "UITextField"; placeholder = "Card Number"; ObjectID = "p8q-9P-XVf"; */
+"p8q-9P-XVf.placeholder" = "Card Number";
+
+/* Class = "UITextField"; placeholder = "Card Holder"; ObjectID = "yVi-b0-Ck3"; */
+"yVi-b0-Ck3.placeholder" = "Card Holder";

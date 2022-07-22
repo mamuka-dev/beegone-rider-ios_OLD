@@ -1,0 +1,122 @@
+/* 
+  Localizable.strings
+  Herway
+
+  Created by Faizan Ali  on 2022/6/20.
+  
+*/
+
+
+"OK" = "OK";
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+"Tomorrow" = "Tomorrow";
+"Good Morning" = "Good Morning";
+"Good Night" = "Good Night";
+"Good Afternoon" = "Good Afternoon";
+"Good Evening" = "Good Evening";
+"Kindly enter message" = "Kindly enter message";
+"No history available!" = "No history available!";
+"No history available!" = "No history available!";
+"Credited by" = "Credited by";
+"Debited by" = "Debited by";
+"Done" = "Done";
+"fourTwo" = "4242";
+"Manage Cards" = "Manage Cards";
+"Add Card for payments" = "Add Card for payments";
+"BookingID:" = "BookingID: %@";
+"No rides available!" = "No rides available!";
+"no_mins" = "0 mins";
+"total_mins" = "%@ mins";
+"No rides completed" = "No rides completed";
+"No comment available" = "No comment available";
+"ten" = "10";
+"twenty" = "20";
+"fifty" = "50";
+"Kindly enter an amount" = "Kindly enter an amount";
+"Set/Add default card." = "Set/Add default card.";
+"Support" = "Support";
+"I need support ...)" = "I need support ...)";
+"SOS Number Not Available" = "SOS Number Not Available";
+"Are you sure want to logout?" = "Are you sure want to logout?";
+"YES" = "YES";
+"NO" = "NO";
+"Download best taxi app from here:" = "Download best taxi app from here:";
+"Location Already Exists" = "Something went wrong!, e.g: (Location Already Exists)";
+"Download app from here:" = "Download app from here:";
+
+"Home" = "Home";
+"Wallet" = "Wallet";
+"Manage Cards" = "Manage Cards";
+"Rides History" = "Rides History";
+"Schedule Rides" = "Schedule Rides";
+"Wallet Coupon history" = "Wallet & Coupon history";
+"Support" = "Support";
+"Settings" = "Settings";
+"Profile" = "Profile";
+
+
+"Due to peak hours" = "Due to peak hours, charges will be vary based on availability of providers";
+"Driver accepted your request." = "Driver accepted your request.";
+"Availability of providers" = "Due to peak hours, charges will be vary based on availability of providers";
+"Driver has arrived at your location." = "Driver has arrived at your location.";
+"Enjoy the ride" = "Enjoy the ride";
+
+"Kindly give rating" = "Kindly give rating";
+"distanceKm" = "%@ Km";
+"total_Min" = "%@ Min";
+"Select Date Time" = "Select Date & Time";
+
+"Add Promo Code" = "Add Promo Code";
+
+"TRANSPORTATION" = "TRANSPORTATION";
+"DELIVERY" = "DELIVERY";
+"TRUCK" = "TRUCK";
+
+"Kindly select destination!" = "Kindly select destination!";
+"Enter your pickup location" = "Enter your pickup location";
+"Kindly select pickup location!" = "Kindly select pickup location!";
+"There are no default card available!" = "There are no default card available!";
+"Kindly add SOS number first from settings" = "Kindly add SOS number first from settings";
+
+
+"Enter drop off location" = "Enter drop off location";
+"Set/Add default card." = "Set/Add default card.";
+"Oops" = "Oops";
+"MapsMessage" = "We need your location to show you on Maps";
+"Cancel" = "Cancel";
+"Settings" = "Settings";
+
+"Kindly select destination!" = "Kindly select destination!";
+"Kindly wait for some time before sending the otp again." = "Kindly wait for some time before sending the otp again.";
+"Code has been sent." = "Code has been sent.";
+"Invalid code" = "Invalid code";
+"Phone number has been verified." = "Phone number has been verified.";
+"Something went wrong!" = "Something went wrong!";
+
+"Kindly select terms & condition" = "Kindly select terms & condition";
+"User create successfully!" = "User create successfully!";
+
+"First name required." = "First name required.";
+"Last name required." = "Last name required.";
+"Email required." = "Email required.";
+"Valid email required." = "Valid email required.";
+"Password required." = "Password required.";
+"Password should be 6 characters" = "Password should be 6 characters";
+
+"Countries" =  "Countries";
+"Phone number required." = "Phone number required.";
+"Please Login: User Already Registered" = "Please Login: User Already Registered";
+
+"Kindly enter valid phone number." = "Kindly enter valid phone number.";
+"Kindly fill all fields" = "Kindly fill all fields";
+"New password & Confirm Password are not matching." = "New password & Confirm Password are not matching.";
+"Kindly fill all fields" = "Kindly fill all fields";
+"New password & Confirm Password are not matching." = "New password & Confirm Password are not matching.";
+
+"Password required." = "Password required.";
+"Password should be 6 characters" = "Password should be 6 characters";
+
+
+"Kindly restart the app to apply changes for localization." = "Kindly restart the app to apply changes for localization.";
+"Okey" = "Okey";

@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Pay By Card"; ObjectID = "g7p-Yo-89k"; */
+"g7p-Yo-89k.text" = "Pay By Card";
+
+/* Class = "UILabel"; text = "Payment Methods"; ObjectID = "o5c-2T-aC1"; */
+"o5c-2T-aC1.text" = "Payment Methods";
+
+/* Class = "UIButton"; normalTitle = "PAY"; ObjectID = "vK9-yw-d7C"; */
+"vK9-yw-d7C.normalTitle" = "PAY";

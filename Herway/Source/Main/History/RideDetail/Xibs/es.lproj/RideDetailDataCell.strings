@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "CASH"; ObjectID = "2fb-AW-Z0L"; */
+"2fb-AW-Z0L.text" = "CASH";
+
+/* Class = "UILabel"; text = "1003, state st# 56-A life, lahore, punjab, Pakistan"; ObjectID = "3gE-pD-HOT"; */
+"3gE-pD-HOT.text" = "1003, state st# 56-A life, lahore, punjab, Pakistan";
+
+/* Class = "UILabel"; text = "Pickup"; ObjectID = "7tG-6r-9xe"; */
+"7tG-6r-9xe.text" = "Pickup";
+
+/* Class = "UILabel"; text = "KWDF44556"; ObjectID = "9z8-Ne-bKM"; */
+"9z8-Ne-bKM.text" = "KWDF44556";
+
+/* Class = "UILabel"; text = "25th Dec 2021"; ObjectID = "BAm-SI-dsk"; */
+"BAm-SI-dsk.text" = "25th Dec 2021";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "Dv9-0a-Yy9"; */
+"Dv9-0a-Yy9.text" = "Comments";
+
+/* Class = "UILabel"; text = "05:25 pm"; ObjectID = "IjR-gF-m7F"; */
+"IjR-gF-m7F.text" = "05:25 pm";
+
+/* Class = "UILabel"; text = "Booking ID"; ObjectID = "R6L-Pi-UDe"; */
+"R6L-Pi-UDe.text" = "Booking ID";
+
+/* Class = "UILabel"; text = "The Driver"; ObjectID = "TG0-Sa-bD5"; */
+"TG0-Sa-bD5.text" = "The Driver";
+
+/* Class = "UILabel"; text = "Driver's Details"; ObjectID = "cuI-6u-G4s"; */
+"cuI-6u-G4s.text" = "Driver's Details";
+
+/* Class = "UILabel"; text = "Ride Details"; ObjectID = "ggM-Ps-dFo"; */
+"ggM-Ps-dFo.text" = "Ride Details";
+
+/* Class = "UILabel"; text = "Payment Mode"; ObjectID = "htg-gq-6us"; */
+"htg-gq-6us.text" = "Payment Mode";
+
+/* Class = "UILabel"; text = "Drop"; ObjectID = "mhg-2V-sbu"; */
+"mhg-2V-sbu.text" = "Drop";
+
+/* Class = "UILabel"; text = "He was a good driver"; ObjectID = "qH8-64-vWC"; */
+"qH8-64-vWC.text" = "He was a good driver";
+
+/* Class = "UILabel"; text = "1003, state st# 56-A life, Rawalpindi House # 23-H, punjab, Pakistan"; ObjectID = "wpa-JE-3Su"; */
+"wpa-JE-3Su.text" = "1003, state st# 56-A life, Rawalpindi House # 23-H, punjab, Pakistan";

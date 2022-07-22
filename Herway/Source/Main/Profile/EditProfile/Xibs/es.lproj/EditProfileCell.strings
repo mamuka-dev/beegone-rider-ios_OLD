@@ -1,0 +1,17 @@
+
+/* Class = "UIButton"; normalTitle = "Save Profile"; ObjectID = "GMq-81-Hc3"; */
+"GMq-81-Hc3.normalTitle" = "Guardar perfil";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "ifC-1c-gDx"; */
+"ifC-1c-gDx.placeholder" = "Apellido";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "vS1-U3-8uw"; */
+"vS1-U3-8uw.placeholder" = "Correo electrónico";
+
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "wy6-6k-KxR"; */
+"wy6-6k-KxR.placeholder" = "Primer nombre";
+
+
+/* Class = "UIButton"; configuration.title = "Looking to change password?"; ObjectID = "xzV-ro-2A4"; */
+"xzV-ro-2A4.normalTitle" = "¿Buscas cambiar la contraseña?";

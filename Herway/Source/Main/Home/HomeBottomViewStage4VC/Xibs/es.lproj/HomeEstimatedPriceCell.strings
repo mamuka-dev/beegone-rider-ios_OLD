@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "4 KM"; ObjectID = "3nb-Vk-Z5X"; */
+"3nb-Vk-Z5X.text" = "4 kilómetros";
+
+/* Class = "UILabel"; text = "Due to high demand or peak hours price may vary"; ObjectID = "9aW-8B-dli"; */
+"9aW-8B-dli.text" = "Debido a la alta demanda o las horas pico, el precio puede variar";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "HjA-Y7-Fys"; */
+"HjA-Y7-Fys.text" = "Total";
+
+/* Class = "UILabel"; text = "0 mins"; ObjectID = "HlH-JU-VoK"; */
+"HlH-JU-VoK.text" = "0 minutos";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "JiT-ey-JOy"; */
+"JiT-ey-JOy.text" = "Distancia";
+
+/* Class = "UILabel"; text = "Tax Charges"; ObjectID = "X80-TH-prE"; */
+"X80-TH-prE.text" = "Cargos de impuestos";
+
+/* Class = "UILabel"; text = "ZK45"; ObjectID = "Xmn-cf-t1w"; */
+"Xmn-cf-t1w.text" = "ZK45";
+
+/* Class = "UILabel"; text = "ZK0"; ObjectID = "dOh-TW-VhK"; */
+"dOh-TW-VhK.text" = "ZK0";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "h3d-Me-0Gf"; */
+"h3d-Me-0Gf.text" = "Tiempo";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "ioR-yP-hu0"; */
+"ioR-yP-hu0.text" = "Precio";
+
+/* Class = "UILabel"; text = "ZK45"; ObjectID = "pvZ-dh-DAb"; */
+"pvZ-dh-DAb.text" = "ZK45";
+
+/* Class = "UILabel"; text = "Estimated Price"; ObjectID = "xmK-zb-Lr1"; */
+"xmK-zb-Lr1.text" = "Precio estimado";

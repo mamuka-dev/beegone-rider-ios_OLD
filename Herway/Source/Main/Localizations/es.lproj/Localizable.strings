@@ -1,0 +1,121 @@
+/*
+  Localizable.strings
+  Herway
+
+  Created by Faizan Ali  on 2022/6/20.
+  
+*/
+
+"OK" = "OK";
+"Today" = "Este Dia";
+"Yesterday" = "el dia de ayer";
+"Tomorrow" = "Mañana";
+"Good Morning" = "Buenos días";
+"Good Night" = "Buenas noches";
+"Good Afternoon" = "Buenas tardes";
+"Good Evening" = "Buenas noches";
+"Kindly enter message" = "Por favor ingrese el mensaje";
+"No history available!" = "No hay historial disponible!";
+"No history available!" = "No hay historial disponible!";
+"Credited by" = "Acreditado por";
+"Debited by" = "Debitado por";
+"Done" = "Hecho";
+"fourTwo" = "4242";
+"Manage Cards" = "Administrar Tarjetas";
+"Add Card for payments" = "Agregar tarjeta para pagos";
+"BookingID:" = "Id. de reserva: %@";
+"No rides available!" = "No hay viajes disponibles!";
+"no_mins" = "0 minutos";
+"total_mins" = "%@ minutos";
+"No rides completed" = "No hay viajes completados";
+"No comment available" = "Ningún comentario disponible";
+"ten" = "10";
+"twenty" = "20";
+"fifty" = "50";
+"Kindly enter an amount" = "Por favor ingrese una cantidad";
+"Set/Add default card." = "Establecer/Agregar tarjeta predeterminada.";
+"Support" = "Apoyo";
+"I need support ...)" = "necesito apoyo ...)";
+"SOS Number Not Available" = "Número SOS no disponible";
+"Are you sure want to logout?" = "¿Estás seguro de que quieres cerrar sesión?";
+"YES" = "SÍ";
+"NO" = "NO";
+"Download best taxi app from here:" = "Descarga la mejor aplicación de taxi desde aquí:";
+"Location Already Exists" = "Algo salió mal!, e.g: (La ubicación ya existe)";
+"Download app from here:" = "Descarga la aplicación desde aquí:";
+
+"Home" = "Hogar";
+"Wallet" = "Cartera";
+"Manage Cards" = "Administrar Tarjetas";
+"Rides History" = "Historial de viajes";
+"Schedule Rides" = "Programar viajes";
+"Wallet Coupon history" = "Historial de billetera y cupones";
+"Support" = "Apoyo";
+"Settings" = "Ajustes";
+"Profile" = "Perfil";
+
+
+"Due to peak hours" = "Debido a las horas pico, los cargos variarán según la disponibilidad de los proveedores.";
+"Driver accepted your request." = "El conductor aceptó su solicitud.";
+"Availability of providers" = "Debido a las horas pico, los cargos variarán según la disponibilidad de los proveedores.";
+"Driver has arrived at your location." = "El conductor ha llegado a su ubicación.";
+"Enjoy the ride" = "Disfruta el viaje";
+
+"Kindly give rating" = "Amablemente dar calificación";
+"distanceKm" = "%@ kilómetros";
+"total_Min" = "%@ mínimo";
+"Select Date Time" = "Seleccionar fecha y hora";
+
+"Add Promo Code" = "Agregar";
+
+"TRANSPORTATION" = "TRANSPORTACIÓN";
+"DELIVERY" = "ENTREGA";
+"TRUCK" = "CAMIÓN";
+
+"Kindly select destination!" = "Por favor seleccione destino!";
+"Enter your pickup location" = "Introduce tu lugar de recogida";
+"Kindly select pickup location!" = "Por favor, seleccione la ubicación de recogida!";
+"There are no default card available!" = "No hay ninguna tarjeta predeterminada disponible!";
+"Kindly add SOS number first from settings" = "Agregue primero el número de SOS desde la configuración";
+
+
+"Enter drop off location" = "Ingrese la ubicación de entrega";
+"Set/Add default card." = "Establecer/Agregar tarjeta predeterminada.";
+"Oops" = "Oops";
+"MapsMessage" = "Necesitamos tu ubicación para mostrarte en Maps";
+"Cancel" = "Cancelar";
+"Settings" = "Ajustes";
+
+"Kindly select destination!" = "Por favor seleccione destino!";
+"Kindly wait for some time before sending the otp again." = "Por favor espere un tiempo antes de enviar el otp nuevamente.";
+"Code has been sent." = "El código ha sido enviado.";
+"Invalid code" = "Codigo invalido";
+"Phone number has been verified." = "El número de teléfono ha sido verificado.";
+"Something went wrong!" = "Algo salió mal!";
+
+"Kindly select terms & condition" = "Por favor seleccione TyC";
+"User create successfully!" = "Usuario creado con éxito!";
+
+"First name required." = "Primer nombre (requerido.";
+"Last name required." = "Apellido Obligatorio.";
+"Email required." = "Correo electronico (requerido.";
+"Valid email required." = "Se requiere un correo válido.";
+"Password required." = "Se requiere contraseña.";
+"Password should be 6 characters" = "La contraseña debe tener 6 caracteres";
+
+"Countries" =  "Países";
+"Phone number required." = "Número de teléfono requerido.";
+"Please Login: User Already Registered" = "Inicie sesión: usuario ya registrado";
+
+"Kindly enter valid phone number." = "Por favor ingrese un número de teléfono válido.";
+"Kindly fill all fields" = "Favor de llenar todos los campos";
+"New password & Confirm Password are not matching." = "Nueva contraseña y Confirmar contraseña no coinciden.";
+"Kindly fill all fields" = "Favor de llenar todos los campos";
+"New password & Confirm Password are not matching." = "Nueva contraseña y Confirmar contraseña no coinciden.";
+
+"Password required." = "Se requiere contraseña.";
+"Password should be 6 characters" = "La contraseña debe tener 6 caracteres";
+
+
+"Kindly restart the app to apply changes for localization." = "Reinicie amablemente la aplicación para aplicar los cambios para la localización.";
+"Okey" = "Buena";

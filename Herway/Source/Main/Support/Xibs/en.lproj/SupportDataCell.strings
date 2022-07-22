@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Mail Us"; ObjectID = "04u-JM-UeL"; */
+"04u-JM-UeL.text" = "Mail Us";
+
+/* Class = "UILabel"; text = "Chat with our Support"; ObjectID = "BsS-0I-VjF"; */
+"BsS-0I-VjF.text" = "Chat with our Support";
+
+/* Class = "UILabel"; text = "Call Us"; ObjectID = "FcC-CE-iJj"; */
+"FcC-CE-iJj.text" = "Call Us";
+
+/* Class = "UILabel"; text = "Support available 24/7, But sometimes wait a bit longer"; ObjectID = "WSE-OG-WTb"; */
+"WSE-OG-WTb.text" = "Support available 24/7, But sometimes wait a bit longer";

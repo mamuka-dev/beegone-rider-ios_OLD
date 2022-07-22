@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "We'll text a code to verify your phone"; ObjectID = "bzd-TM-QwM"; */
+"bzd-TM-QwM.text" = "We'll text a code to verify your phone";
+
+/* Class = "UILabel"; text = "What's your Mobile number"; ObjectID = "mNo-LE-zTY"; */
+"mNo-LE-zTY.text" = "What's your Mobile number";
+
+/* Class = "UITextField"; placeholder = "Phone no."; ObjectID = "pjn-JP-byW"; */
+"pjn-JP-byW.placeholder" = "Phone no.";
+
+/* Class = "UIButton"; normalTitle = "VERIFY"; ObjectID = "uHN-kU-55b"; */
+"uHN-kU-55b.normalTitle" = "VERIFY";

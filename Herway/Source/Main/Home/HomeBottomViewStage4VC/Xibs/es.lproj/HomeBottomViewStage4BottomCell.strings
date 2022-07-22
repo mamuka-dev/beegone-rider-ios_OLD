@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Chat"; ObjectID = "4Xx-Bv-wFa"; */
+"4Xx-Bv-wFa.text" = "Charlar";
+
+/* Class = "UILabel"; text = "Call Driver"; ObjectID = "S4w-YN-vJE"; */
+"S4w-YN-vJE.text" = "Conductor de llamada";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "nTi-zJ-0VM"; */
+"nTi-zJ-0VM.text" = "Cancelar";
+
+/* Class = "UILabel"; text = "Share"; ObjectID = "uU7-bR-zBA"; */
+"uU7-bR-zBA.text" = "Cuota";

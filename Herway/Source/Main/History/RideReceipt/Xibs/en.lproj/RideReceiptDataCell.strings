@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Distance Travelled"; ObjectID = "15U-6R-iNn"; */
+"15U-6R-iNn.text" = "Distance Travelled";
+
+/* Class = "UILabel"; text = "Base Price"; ObjectID = "3ki-2B-V0h"; */
+"3ki-2B-V0h.text" = "Base Price";
+
+/* Class = "UILabel"; text = "ZK45"; ObjectID = "7hu-mC-CeE"; */
+"7hu-mC-CeE.text" = "ZK45";
+
+/* Class = "UILabel"; text = "Receipts"; ObjectID = "7sj-iO-OaA"; */
+"7sj-iO-OaA.text" = "Receipts";
+
+/* Class = "UILabel"; text = "ZK0"; ObjectID = "9tW-cJ-Qhm"; */
+"9tW-cJ-Qhm.text" = "ZK0";
+
+/* Class = "UILabel"; text = "Tax Charges"; ObjectID = "BsH-08-8D2"; */
+"BsH-08-8D2.text" = "Tax Charges";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "Tbn-81-3hQ"; */
+"Tbn-81-3hQ.normalTitle" = "CLOSE";
+
+/* Class = "UILabel"; text = "KBHR334466"; ObjectID = "UdJ-hD-Niv"; */
+"UdJ-hD-Niv.text" = "KBHR334466";
+
+/* Class = "UILabel"; text = "4 KM"; ObjectID = "WQW-C1-cWa"; */
+"WQW-C1-cWa.text" = "4 KM";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "dDr-Z1-MuW"; */
+"dDr-Z1-MuW.text" = "Total";
+
+/* Class = "UILabel"; text = "Distance Price"; ObjectID = "ffa-io-jql"; */
+"ffa-io-jql.text" = "Distance Price";
+
+/* Class = "UILabel"; text = "BookingID"; ObjectID = "lmN-u6-cig"; */
+"lmN-u6-cig.text" = "BookingID";
+
+/* Class = "UILabel"; text = "ZK45"; ObjectID = "pFp-4Y-PXL"; */
+"pFp-4Y-PXL.text" = "ZK45";
+
+/* Class = "UILabel"; text = "0 mins"; ObjectID = "rLQ-xd-hwO"; */
+"rLQ-xd-hwO.text" = "0 mins";
+
+/* Class = "UILabel"; text = "Time Taken"; ObjectID = "weI-Ar-tMI"; */
+"weI-Ar-tMI.text" = "Time Taken";
+
+/* Class = "UILabel"; text = "ZK45"; ObjectID = "xj6-2d-zVy"; */
+"xj6-2d-zVy.text" = "ZK45";

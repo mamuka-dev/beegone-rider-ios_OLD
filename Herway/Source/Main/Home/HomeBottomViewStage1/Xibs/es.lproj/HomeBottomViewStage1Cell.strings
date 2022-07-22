@@ -1,0 +1,18 @@
+
+/* Class = "UITextField"; placeholder = "Search Destination"; ObjectID = "CAJ-X6-UrX"; */
+"CAJ-X6-UrX.placeholder" = "Destino de búsqueda";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "KTV-V9-5RG"; */
+"KTV-V9-5RG.text" = "Hogar";
+
+/* Class = "UILabel"; text = "Send/Pickup"; ObjectID = "PRQ-Km-Y8g"; */
+"PRQ-Km-Y8g.text" = "Enviar/Recoger";
+
+/* Class = "UILabel"; text = "Work"; ObjectID = "SfT-Ca-7iN"; */
+"SfT-Ca-7iN.text" = "Trabajar";
+
+/* Class = "UILabel"; text = "Good Afternoon, Khan"; ObjectID = "SqI-IE-Hsy"; */
+"SqI-IE-Hsy.text" = "Buenas tardes Khan";
+
+/* Class = "UILabel"; text = "Where are you going?"; ObjectID = "wbQ-yC-fPV"; */
+"wbQ-yC-fPV.text" = "¿A dónde vas?";

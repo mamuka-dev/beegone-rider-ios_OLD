@@ -1,0 +1,96 @@
+
+/* Class = "UILabel"; text = "Wallet & Coupon History"; ObjectID = "167-hJ-Tlj"; */
+"167-hJ-Tlj.text" = "Historial de billetera y cupones";
+
+/* Class = "UILabel"; text = "Chat"; ObjectID = "6gO-jj-TEU"; */
+"6gO-jj-TEU.text" = "Charlar";
+
+/* Class = "UILabel"; text = "Wallet"; ObjectID = "7re-BG-dWm"; */
+"7re-BG-dWm.text" = "Cartera";
+
+/* Class = "UILabel"; text = "Finding Ride..."; ObjectID = "9Xp-oJ-A5G"; */
+"9Xp-oJ-A5G.text" = "Buscando paseo...";
+
+/* Class = "UIButton"; normalTitle = "ADD MONEY TO TH WALLET"; ObjectID = "AZR-Jw-mcI"; */
+"AZR-Jw-mcI.normalTitle" = "AGREGAR DINERO A LA BILLETERA";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "Aeh-ie-N4l"; */
+"Aeh-ie-N4l.normalTitle" = "ACTUALIZAR";
+
+/* Class = "UITextField"; placeholder = "Type your message"; ObjectID = "Ame-KK-GFc"; */
+"Ame-KK-GFc.placeholder" = "Escribe tu mensaje";
+
+/* Class = "UILabel"; text = "77, sector 44, Islamabad"; ObjectID = "C6K-kr-orr"; */
+"C6K-kr-orr.text" = "77, sector 44, Islamabad";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "CdL-rf-FaV"; */
+"CdL-rf-FaV.text" = "Perfil";
+
+/* Class = "UILabel"; text = "Manage Cards"; ObjectID = "FjY-Jk-yw0"; */
+"FjY-Jk-yw0.text" = "Administrar Tarjetas";
+
+/* Class = "UILabel"; text = "Edit Account"; ObjectID = "GpN-7T-U9R"; */
+"GpN-7T-U9R.text" = "Editar cuenta";
+
+/* Class = "UIButton"; normalTitle = "Wallet history"; ObjectID = "NdT-AA-vgc"; */
+"NdT-AA-vgc.normalTitle" = "Historial de la billetera";
+
+/* Class = "UILabel"; text = "XXXX - XXXX -XXXX - 4242"; ObjectID = "Ogo-6l-5Eb"; */
+"Ogo-6l-5Eb.text" = "XXXX - XXXX -XXXX - 4242";
+
+/* Class = "UILabel"; text = "77, sector 44, Islamabad"; ObjectID = "SRl-0V-SX9"; */
+"SRl-0V-SX9.text" = "77, sector 44, Islamabad";
+
+/* Class = "UILabel"; text = "Ride History"; ObjectID = "ST1-HC-KD7"; */
+"ST1-HC-KD7.text" = "Historial de viajes";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "Stk-Nm-C7x"; */
+"Stk-Nm-C7x.normalTitle" = "Cambio";
+
+/* Class = "UIButton"; normalTitle = "VIEW RECEIPT"; ObjectID = "ZBx-Ee-rAH"; */
+"ZBx-Ee-rAH.normalTitle" = "VER RECIBO";
+
+/* Class = "UILabel"; text = "XXXX - XXXX -XXXX - 4242"; ObjectID = "ZMV-c6-Tdv"; */
+"ZMV-c6-Tdv.text" = "XXXX - XXXX -XXXX - 4242";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "a9r-Ip-eJL"; */
+"a9r-Ip-eJL.text" = "Ajustes";
+
+/* Class = "UILabel"; text = "Schedule Rides"; ObjectID = "aBd-aI-d5j"; */
+"aBd-aI-d5j.text" = "Programar viajes";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "blf-El-WYu"; */
+"blf-El-WYu.normalTitle" = "Cambio";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "fAP-5j-wCP"; */
+"fAP-5j-wCP.text" = "Apoyo";
+
+/* Class = "UILabel"; text = "Pay By Card"; ObjectID = "fgk-iC-2xP"; */
+"fgk-iC-2xP.text" = "Pagar con Tarjeta";
+
+/* Class = "UIButton"; normalTitle = "PAY ONLINE"; ObjectID = "gaE-CJ-URk"; */
+"gaE-CJ-URk.normalTitle" = "PAGA EN LINEA";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "jM5-iV-JAh"; */
+"jM5-iV-JAh.text" = "Detalles";
+
+/* Class = "UIButton"; normalTitle = "CANCEL RIDE"; ObjectID = "qMX-Gm-Fri"; */
+"qMX-Gm-Fri.normalTitle" = "CANCELAR VIAJE";
+
+/* Class = "UITextField"; placeholder = "Phone no."; ObjectID = "r2o-wm-Yzk"; */
+"r2o-wm-Yzk.placeholder" = "Telefono no.";
+
+/* Class = "UILabel"; text = "Add SOS Number"; ObjectID = "tAS-t9-evo"; */
+"tAS-t9-evo.text" = "Añadir número SOS";
+
+/* Class = "UILabel"; text = "SOS"; ObjectID = "uzy-sq-TOj"; */
+"uzy-sq-TOj.text" = "SOS";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "vgL-3O-7yi"; */
+"vgL-3O-7yi.text" = "Perfil";
+
+/* Class = "UILabel"; text = "Pay By Card"; ObjectID = "xJT-kS-9GN"; */
+"xJT-kS-9GN.text" = "Pagar con Tarjeta";
+
+/* Class = "UIButton"; normalTitle = "Coupon history"; ObjectID = "zSc-da-bEB"; */
+"zSc-da-bEB.normalTitle" = "Historial de cupones";

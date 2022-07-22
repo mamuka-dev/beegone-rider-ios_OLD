@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "3I7-gd-c98"; */
+"3I7-gd-c98.normalTitle" = "Acceso";
+
+/* Class = "UILabel"; text = "Sign in"; ObjectID = "Dg7-e8-UEj"; */
+"Dg7-e8-UEj.text" = "Iniciar sesión";
+
+/* Class = "UIButton"; configuration.title = "Forget password?"; ObjectID = "HRN-ku-PON"; */
+"HRN-ku-PON.normalTitle" = "¿Se te olvidó tu contraseña?";
+
+/* Class = "UITextField"; placeholder = "Phone no."; ObjectID = "Qvi-zr-GMR"; */
+"Qvi-zr-GMR.placeholder" = "Telefono no.";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "pBp-wS-WXi"; */
+"pBp-wS-WXi.placeholder" = "Clave";

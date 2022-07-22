@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Gotham-Book.otf">
+            <string>Gotham-Book</string>
+        </array>
+        <array key="Gotham-Medium.otf">
+            <string>Gotham-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="ManageCardDataCell" rowHeight="388" id="KGk-i7-Jjw" customClass="ManageCardDataCell" customModule="HerwayDriver" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="388"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="388"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="uDh-3L-lCN" userLabel="CardDetailsContainer">
+                        <rect key="frame" x="0.0" y="16" width="375" height="350"/>
+                        <subviews>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Card Holder" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="yVi-b0-Ck3">
+                                <rect key="frame" x="16" y="16" width="343" height="50"/>
+                                <color key="tintColor" red="0.0" green="0.54901960780000003" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="YTR-ex-v1c"/>
+                                </constraints>
+                                <color key="textColor" red="0.1450980392" green="0.1450980392" blue="0.1450980392" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" name="Gotham-Book" family="Gotham" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocorrectionType="no"/>
+                            </textField>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="wwF-bK-hzJ" userLabel="CardHolder">
+                                <rect key="frame" x="16" y="68" width="343" height="1"/>
+                                <color key="backgroundColor" red="0.27058823529999998" green="0.20000000000000001" blue="0.20000000000000001" alpha="0.10000000000000001" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1" id="JxN-gM-FsY"/>
+                                </constraints>
+                            </imageView>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Card Number" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="p8q-9P-XVf">
+                                <rect key="frame" x="16" y="89" width="343" height="50"/>
+                                <color key="tintColor" red="0.0" green="0.54901960780000003" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="8pk-iE-x5h"/>
+                                </constraints>
+                                <color key="textColor" red="0.1450980392" green="0.1450980392" blue="0.1450980392" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" name="Gotham-Book" family="Gotham" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocorrectionType="no" keyboardType="ASCIICapableNumberPad"/>
+                            </textField>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="t9b-oE-x6L" userLabel="CardNumber">
+                                <rect key="frame" x="16" y="141" width="343" height="1"/>
+                                <color key="backgroundColor" red="0.27058823529999998" green="0.20000000000000001" blue="0.20000000000000001" alpha="0.10000000000000001" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1" id="i48-zl-CpR"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="s9b-B8-C3Y" userLabel="monthLine">
+                                <rect key="frame" x="16" y="214" width="42" height="1"/>
+                                <color key="backgroundColor" red="0.27058823529999998" green="0.20000000000000001" blue="0.20000000000000001" alpha="0.10000000000000001" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1" id="Tg6-Xk-ind"/>
+                                    <constraint firstAttribute="width" constant="42" id="WnX-1S-dDZ"/>
+                                </constraints>
+                            </imageView>
+                            <textField opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Expiration Date" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="CO9-v8-3WV">
+                                <rect key="frame" x="16" y="162" width="150" height="50"/>
+                                <color key="tintColor" red="0.0" green="0.54901960780000003" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="fSX-mq-aL7"/>
+                                    <constraint firstAttribute="width" constant="150" id="oLt-4R-hDR"/>
+                                </constraints>
+                                <color key="textColor" red="0.1450980392" green="0.1450980392" blue="0.1450980392" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" name="Gotham-Book" family="Gotham" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocorrectionType="no" keyboardType="ASCIICapableNumberPad"/>
+                            </textField>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="rps-GJ-xhG" userLabel="YearLine">
+                                <rect key="frame" x="51" y="214" width="62" height="1"/>
+                                <color key="backgroundColor" red="0.27058823529999998" green="0.20000000000000001" blue="0.20000000000000001" alpha="0.10000000000000001" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="62" id="hGx-SU-Fx7"/>
+                                    <constraint firstAttribute="height" constant="1" id="xw4-FX-zXK"/>
+                                </constraints>
+                            </imageView>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="CVV" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="LPt-uz-ay7">
+                                <rect key="frame" x="176" y="162" width="42" height="50"/>
+                                <color key="tintColor" red="0.0" green="0.54901960780000003" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="42" id="gkP-PP-Wcb"/>
+                                    <constraint firstAttribute="height" constant="50" id="irO-N1-I0j"/>
+                                </constraints>
+                                <color key="textColor" red="0.1450980392" green="0.1450980392" blue="0.1450980392" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" name="Gotham-Book" family="Gotham" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocorrectionType="no" keyboardType="ASCIICapableNumberPad"/>
+                            </textField>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="uZk-Dj-tOs" userLabel="CVVLine">
+                                <rect key="frame" x="117" y="214" width="52" height="1"/>
+                                <color key="backgroundColor" red="0.27058823529999998" green="0.20000000000000001" blue="0.20000000000000001" alpha="0.10000000000000001" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="52" id="ZK2-TI-j9r"/>
+                                    <constraint firstAttribute="height" constant="1" id="jzE-ZB-klW"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" semanticContentAttribute="forceLeftToRight" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qsy-YQ-fjw">
+                                <rect key="frame" x="16" y="247" width="343" height="56"/>
+                                <color key="backgroundColor" name="tint1"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="56" id="Tny-Nv-Gw8"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Gotham-Medium" family="Gotham" pointSize="18"/>
+                                <inset key="titleEdgeInsets" minX="10" minY="0.0" maxX="5" maxY="0.0"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="10" maxY="0.0"/>
+                                <state key="normal" title="ADD CARD">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="8"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="btnAddCardTapped:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="1nH-7x-VSc"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mB7-cZ-KnN">
+                                <rect key="frame" x="16" y="162" width="150" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="150" id="1Qp-ah-Zuv"/>
+                                    <constraint firstAttribute="height" constant="50" id="jv8-a9-SZM"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <connections>
+                                    <action selector="btnExpirationTapped:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="vDs-Bk-lR1"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="t9b-oE-x6L" secondAttribute="trailing" constant="16" id="1L1-z8-8K2"/>
+                            <constraint firstItem="t9b-oE-x6L" firstAttribute="top" secondItem="p8q-9P-XVf" secondAttribute="bottom" constant="2" id="2AG-kf-PHJ"/>
+                            <constraint firstAttribute="trailing" secondItem="Qsy-YQ-fjw" secondAttribute="trailing" constant="16" id="37D-LP-5qH"/>
+                            <constraint firstItem="uZk-Dj-tOs" firstAttribute="top" secondItem="LPt-uz-ay7" secondAttribute="bottom" constant="2" id="3rz-ZK-5QH"/>
+                            <constraint firstItem="LPt-uz-ay7" firstAttribute="top" secondItem="t9b-oE-x6L" secondAttribute="bottom" constant="20" id="4S5-bd-9gO"/>
+                            <constraint firstItem="t9b-oE-x6L" firstAttribute="leading" secondItem="uDh-3L-lCN" secondAttribute="leading" constant="16" id="4wv-r8-tvl"/>
+                            <constraint firstItem="CO9-v8-3WV" firstAttribute="leading" secondItem="uDh-3L-lCN" secondAttribute="leading" constant="16" id="9hp-hO-m8Z"/>
+                            <constraint firstItem="wwF-bK-hzJ" firstAttribute="leading" secondItem="uDh-3L-lCN" secondAttribute="leading" constant="16" id="A3V-Xf-CfJ"/>
+                            <constraint firstItem="uZk-Dj-tOs" firstAttribute="leading" secondItem="uDh-3L-lCN" secondAttribute="leading" constant="117" id="BBc-K9-kCs"/>
+                            <constraint firstAttribute="trailing" secondItem="yVi-b0-Ck3" secondAttribute="trailing" constant="16" id="FbQ-Zt-QqO"/>
+                            <constraint firstItem="CO9-v8-3WV" firstAttribute="top" secondItem="t9b-oE-x6L" secondAttribute="bottom" constant="20" id="Fib-K0-DOd"/>
+                            <constraint firstAttribute="height" constant="350" id="IHl-XS-L1Y"/>
+                            <constraint firstItem="s9b-B8-C3Y" firstAttribute="leading" secondItem="uDh-3L-lCN" secondAttribute="leading" constant="16" id="IT3-iD-vaX"/>
+                            <constraint firstItem="Qsy-YQ-fjw" firstAttribute="top" secondItem="s9b-B8-C3Y" secondAttribute="bottom" constant="32" id="Id8-ZO-CoW"/>
+                            <constraint firstItem="rps-GJ-xhG" firstAttribute="leading" secondItem="uDh-3L-lCN" secondAttribute="leading" constant="51" id="Qrf-Pi-g0v"/>
+                            <constraint firstItem="Qsy-YQ-fjw" firstAttribute="leading" secondItem="uDh-3L-lCN" secondAttribute="leading" constant="16" id="RND-B3-2A4"/>
+                            <constraint firstItem="mB7-cZ-KnN" firstAttribute="leading" secondItem="uDh-3L-lCN" secondAttribute="leading" constant="16" id="TGf-xM-gg7"/>
+                            <constraint firstItem="p8q-9P-XVf" firstAttribute="top" secondItem="wwF-bK-hzJ" secondAttribute="bottom" constant="20" id="YNh-9l-jrm"/>
+                            <constraint firstItem="mB7-cZ-KnN" firstAttribute="top" secondItem="t9b-oE-x6L" secondAttribute="bottom" constant="20" id="el6-al-Nfp"/>
+                            <constraint firstItem="LPt-uz-ay7" firstAttribute="leading" secondItem="CO9-v8-3WV" secondAttribute="trailing" constant="10" id="go8-JX-VMv"/>
+                            <constraint firstItem="yVi-b0-Ck3" firstAttribute="leading" secondItem="uDh-3L-lCN" secondAttribute="leading" constant="16" id="h03-WK-Fzf"/>
+                            <constraint firstItem="yVi-b0-Ck3" firstAttribute="top" secondItem="uDh-3L-lCN" secondAttribute="top" constant="16" id="hLb-gH-bMc"/>
+                            <constraint firstItem="p8q-9P-XVf" firstAttribute="leading" secondItem="uDh-3L-lCN" secondAttribute="leading" constant="16" id="ihy-oe-1iT"/>
+                            <constraint firstAttribute="trailing" secondItem="wwF-bK-hzJ" secondAttribute="trailing" constant="16" id="mvc-C8-B74"/>
+                            <constraint firstAttribute="trailing" secondItem="p8q-9P-XVf" secondAttribute="trailing" constant="16" id="qgw-Au-eU3"/>
+                            <constraint firstItem="s9b-B8-C3Y" firstAttribute="top" secondItem="CO9-v8-3WV" secondAttribute="bottom" constant="2" id="tbe-MX-9St"/>
+                            <constraint firstItem="rps-GJ-xhG" firstAttribute="top" secondItem="CO9-v8-3WV" secondAttribute="bottom" constant="2" id="u72-Ay-ovU"/>
+                            <constraint firstItem="wwF-bK-hzJ" firstAttribute="top" secondItem="yVi-b0-Ck3" secondAttribute="bottom" constant="2" id="vcp-Qx-k7M"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="uDh-3L-lCN" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="16" id="Jxb-Cm-up0"/>
+                    <constraint firstItem="uDh-3L-lCN" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="Ns6-Sq-KXX"/>
+                    <constraint firstAttribute="bottom" secondItem="uDh-3L-lCN" secondAttribute="bottom" constant="22" id="ZB4-MY-6kR"/>
+                    <constraint firstAttribute="trailing" secondItem="uDh-3L-lCN" secondAttribute="trailing" id="e4R-Jf-Slw"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="btnAddCard" destination="Qsy-YQ-fjw" id="tmB-J5-b2c"/>
+                <outlet property="txtCVV" destination="LPt-uz-ay7" id="ppg-nA-MMQ"/>
+                <outlet property="txtCardHolder" destination="yVi-b0-Ck3" id="6jD-Qc-NuL"/>
+                <outlet property="txtCardName" destination="p8q-9P-XVf" id="Cny-a1-c2z"/>
+                <outlet property="txtYear" destination="CO9-v8-3WV" id="2vj-hd-8er"/>
+            </connections>
+            <point key="canvasLocation" x="136.95652173913044" y="160.04464285714286"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <namedColor name="tint1">
+            <color red="0.9649999737739563" green="0.3919999897480011" blue="0.23499999940395355" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

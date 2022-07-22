@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>476898660277-udto5gngu9584hibbpgbm15hm50shhcd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.476898660277-udto5gngu9584hibbpgbm15hm50shhcd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>476898660277-0t75l2718hj44losoic6oojq817tqnj4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDt8zLcUT1uPCc2Bk229S0ILwcbLAr4Ibs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>476898660277</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.blackBerline.passenger</string>
+	<key>PROJECT_ID</key>
+	<string>rosalymendez-98499</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rosalymendez-98499.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:476898660277:ios:1b1c42627ff3f83f1013fc</string>
+</dict>
+</plist>

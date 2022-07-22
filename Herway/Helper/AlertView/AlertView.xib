@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Nunito-ExtraBold.ttf">
+            <string>Nunito-ExtraBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="AlertView" customModule="HerwayDriver" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DxI-YB-3Ho">
+                    <rect key="frame" x="47" y="365" width="320" height="166.5"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Do you really want to logout?" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="d61-fl-vkd">
+                            <rect key="frame" x="16" y="76" width="288" height="16.5"/>
+                            <fontDescription key="fontDescription" name="Nunito-ExtraBold" family="Nunito" pointSize="14"/>
+                            <color key="textColor" name="secondaryColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="24" translatesAutoresizingMaskIntoConstraints="NO" id="TY7-qO-Z9b">
+                            <rect key="frame" x="77" y="116.5" width="166" height="34"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8ip-Wg-C5N">
+                                    <rect key="frame" x="0.0" y="0.0" width="71" height="34"/>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="34" id="yCc-fl-3tI"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                                    <inset key="contentEdgeInsets" minX="16" minY="0.0" maxX="16" maxY="0.0"/>
+                                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                    <state key="normal" title="OKEY">
+                                        <color key="titleColor" name="tint1"/>
+                                    </state>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                            <real key="value" value="8"/>
+                                        </userDefinedRuntimeAttribute>
+                                    </userDefinedRuntimeAttributes>
+                                    <connections>
+                                        <action selector="btnOkeyTapped:" destination="iN0-l3-epB" eventType="touchUpInside" id="x0y-Gg-5Um"/>
+                                    </connections>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7FR-GI-57u">
+                                    <rect key="frame" x="95" y="0.0" width="71" height="34"/>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="34" id="QoO-J6-Ofi"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                                    <inset key="contentEdgeInsets" minX="16" minY="0.0" maxX="16" maxY="0.0"/>
+                                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                    <state key="normal" title="NO">
+                                        <color key="titleColor" name="tint1"/>
+                                    </state>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                            <real key="value" value="8"/>
+                                        </userDefinedRuntimeAttribute>
+                                    </userDefinedRuntimeAttributes>
+                                    <connections>
+                                        <action selector="btnNoTapped:" destination="iN0-l3-epB" eventType="touchUpInside" id="YeA-hW-165"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                        </stackView>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launchScreenIcon" translatesAutoresizingMaskIntoConstraints="NO" id="ktg-44-i4F">
+                            <rect key="frame" x="138" y="16" width="44" height="44"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="44" id="IUu-6U-0cd"/>
+                                <constraint firstAttribute="height" constant="44" id="vp8-86-tNx"/>
+                            </constraints>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstItem="d61-fl-vkd" firstAttribute="leading" secondItem="DxI-YB-3Ho" secondAttribute="leading" constant="16" id="131-Cb-oTh"/>
+                        <constraint firstItem="TY7-qO-Z9b" firstAttribute="centerX" secondItem="DxI-YB-3Ho" secondAttribute="centerX" id="3uG-Fq-RKZ"/>
+                        <constraint firstAttribute="bottom" secondItem="TY7-qO-Z9b" secondAttribute="bottom" constant="16" id="L7G-GQ-xgM"/>
+                        <constraint firstItem="TY7-qO-Z9b" firstAttribute="top" secondItem="d61-fl-vkd" secondAttribute="bottom" constant="24" id="Nqh-Wg-xeA"/>
+                        <constraint firstAttribute="width" constant="320" id="Nu6-qD-bwq"/>
+                        <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="150" id="Zfo-cX-1CH"/>
+                        <constraint firstItem="ktg-44-i4F" firstAttribute="top" secondItem="DxI-YB-3Ho" secondAttribute="top" constant="16" id="kfS-cv-j2g"/>
+                        <constraint firstItem="ktg-44-i4F" firstAttribute="centerX" secondItem="DxI-YB-3Ho" secondAttribute="centerX" id="kot-AJ-dnY"/>
+                        <constraint firstItem="d61-fl-vkd" firstAttribute="top" secondItem="ktg-44-i4F" secondAttribute="bottom" constant="16" id="x4J-e3-MW3"/>
+                        <constraint firstAttribute="trailing" secondItem="d61-fl-vkd" secondAttribute="trailing" constant="16" id="yIy-g1-l08"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <integer key="value" value="8"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="DxI-YB-3Ho" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="1k3-Cn-dLg"/>
+                <constraint firstItem="DxI-YB-3Ho" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="iGK-pG-D9u"/>
+            </constraints>
+            <connections>
+                <outlet property="btnNo" destination="7FR-GI-57u" id="Ume-Vn-6UR"/>
+                <outlet property="btnYes" destination="8ip-Wg-C5N" id="OuK-OT-CDt"/>
+                <outlet property="lblTitle" destination="d61-fl-vkd" id="Jkt-cI-gHL"/>
+                <outlet property="vwMain" destination="DxI-YB-3Ho" id="far-Mh-5NQ"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="81.696428571428569"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="launchScreenIcon" width="500" height="500"/>
+        <namedColor name="secondaryColor">
+            <color red="0.35499998927116394" green="0.39599999785423279" blue="0.49200001358985901" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="tint1">
+            <color red="0.94099998474121094" green="0.28999999165534973" blue="0.30199998617172241" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

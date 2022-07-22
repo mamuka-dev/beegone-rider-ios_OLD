@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Enter your Details"; ObjectID = "1xc-PU-MO1"; */
+"1xc-PU-MO1.text" = "Enter your Details";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "7gc-zD-gP5"; */
+"7gc-zD-gP5.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "I agree to the "; ObjectID = "I2I-Mx-waF"; */
+"I2I-Mx-waF.text" = "I agree to the ";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "Kbc-8m-ss1"; */
+"Kbc-8m-ss1.placeholder" = "Last Name";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "SCI-0g-0RM"; */
+"SCI-0g-0RM.placeholder" = "First Name";
+
+/* Class = "UILabel"; text = "Drivers will confirm it's you when they pick you up"; ObjectID = "VUw-ip-obN"; */
+"VUw-ip-obN.text" = "Drivers will confirm it's you when they pick you up";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "cqZ-pN-xhU"; */
+"cqZ-pN-xhU.text" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "T&Cs and "; ObjectID = "eaa-tf-3OX"; */
+"eaa-tf-3OX.text" = "T&Cs and ";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "oKc-P5-GdE"; */
+"oKc-P5-GdE.normalTitle" = "SIGN UP";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "zLz-FX-R38"; */
+"zLz-FX-R38.placeholder" = "Password";

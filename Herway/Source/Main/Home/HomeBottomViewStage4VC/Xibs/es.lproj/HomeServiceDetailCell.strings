@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "USA10"; ObjectID = "0bz-kb-TXm"; */
+"0bz-kb-TXm.text" = "Estados Unidos10";
+
+/* Class = "UILabel"; text = "Calculation Type"; ObjectID = "2Id-NQ-B8b"; */
+"2Id-NQ-B8b.text" = "Tipo de cálculo";
+
+/* Class = "UILabel"; text = "USA33"; ObjectID = "LAb-rA-VFs"; */
+"LAb-rA-VFs.text" = "Estados Unidos33";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "WKS-8v-yQ1"; */
+"WKS-8v-yQ1.text" = "Distancia";
+
+/* Class = "UILabel"; text = "Base Price"; ObjectID = "WZb-Uo-Ete"; */
+"WZb-Uo-Ete.text" = "Precio base";
+
+/* Class = "UILabel"; text = "Economy"; ObjectID = "X5I-sf-LXI"; */
+"X5I-sf-LXI.text" = "Economía";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "XE5-E4-ODy"; */
+"XE5-E4-ODy.normalTitle" = "Hecho";
+
+/* Class = "UILabel"; text = "Size(LxBxH)"; ObjectID = "cmI-RP-Ghy"; */
+"cmI-RP-Ghy.text" = "Tamaño (largo x ancho x alto)";
+
+/* Class = "UILabel"; text = "Capacity"; ObjectID = "ptY-zR-yV1"; */
+"ptY-zR-yV1.text" = "Capacidad";
+
+/* Class = "UILabel"; text = "Price/km"; ObjectID = "svJ-Q5-qGq"; */
+"svJ-Q5-qGq.text" = "Precio/km";
+
+/* Class = "UILabel"; text = "Rate Card"; ObjectID = "uPr-DK-JEz"; */
+"uPr-DK-JEz.text" = "Tarjeta de tarifa";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "z0q-gj-gYQ"; */
+"z0q-gj-gYQ.text" = "4";

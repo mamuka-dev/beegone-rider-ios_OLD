@@ -1,0 +1,30 @@
+
+/* Class = "UITextField"; text = "+2344455566"; ObjectID = "BBN-I5-1gr"; */
+"BBN-I5-1gr.text" = "+2344455566";
+
+/* Class = "UIButton"; normalTitle = "Save Profile"; ObjectID = "GMq-81-Hc3"; */
+"GMq-81-Hc3.normalTitle" = "Save Profile";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "ifC-1c-gDx"; */
+"ifC-1c-gDx.placeholder" = "Last Name";
+
+/* Class = "UITextField"; text = "Ali"; ObjectID = "ifC-1c-gDx"; */
+"ifC-1c-gDx.text" = "Ali";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "vS1-U3-8uw"; */
+"vS1-U3-8uw.placeholder" = "Email";
+
+/* Class = "UITextField"; text = "test10@gmail.com"; ObjectID = "vS1-U3-8uw"; */
+"vS1-U3-8uw.text" = "test10@gmail.com";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "wy6-6k-KxR"; */
+"wy6-6k-KxR.placeholder" = "First Name";
+
+/* Class = "UITextField"; text = "Faizan"; ObjectID = "wy6-6k-KxR"; */
+"wy6-6k-KxR.text" = "Faizan";
+
+/* Class = "UIButton"; configuration.title = "Looking to change password?"; ObjectID = "xzV-ro-2A4"; */
+"xzV-ro-2A4.normalTitle" = "Looking to change password?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xzV-ro-2A4"; */
+"xzV-ro-2A4.normalTitle" = "Change Password?";

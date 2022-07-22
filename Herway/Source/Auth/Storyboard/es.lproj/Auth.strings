@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "AEx-8r-hCF"; */
+"AEx-8r-hCF.text" = "Política de privacidad";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "Kbc-Hj-ObN"; */
+"Kbc-Hj-ObN.normalTitle" = "ACCESO";
+
+/* Class = "UILabel"; text = "T&Cs and "; ObjectID = "jlO-I6-wnk"; */
+"jlO-I6-wnk.text" = "TyC y ";
+
+/* Class = "UILabel"; text = "Explore a new way to travel with Go Taxi"; ObjectID = "kMl-Yx-umc"; */
+"kMl-Yx-umc.text" = "Explora una nueva forma de viajar con Go Taxi";
+
+/* Class = "UILabel"; text = "By continuing, you agree that you have read and accept our"; ObjectID = "mrb-q0-owb"; */
+"mrb-q0-owb.text" = "Al continuar, usted acepta que ha leído y acepta nuestros";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "uFu-hQ-chy"; */
+"uFu-hQ-chy.normalTitle" = "INSCRIBIRSE";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "xbu-Cj-snQ"; */
+"xbu-Cj-snQ.text" = "Cambia la contraseña";

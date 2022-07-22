@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "7tA-OW-0ew"; */
+"7tA-OW-0ew.normalTitle" = "APLICAR";
+
+/* Class = "UITextField"; placeholder = "Enter Coupon code"; ObjectID = "RyN-xb-OKW"; */
+"RyN-xb-OKW.placeholder" = "Introduce el código de cupón";
+
+/* Class = "UILabel"; text = "Add Coupon code"; ObjectID = "dcA-Xg-kDv"; */
+"dcA-Xg-kDv.text" = "Añadir código de cupón";

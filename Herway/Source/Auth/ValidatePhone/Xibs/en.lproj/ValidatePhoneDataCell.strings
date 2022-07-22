@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Resend code in : "; ObjectID = "Hzr-iV-3XZ"; */
+"Hzr-iV-3XZ.text" = "Resend code in : ";
+
+/* Class = "UILabel"; text = "00 : 56"; ObjectID = "NNj-Mk-foO"; */
+"NNj-Mk-foO.text" = "00 : 56";
+
+/* Class = "UILabel"; text = "Didn’t receive code?"; ObjectID = "TEI-hy-com"; */
+"TEI-hy-com.text" = "Didn’t receive code?";
+
+/* Class = "UILabel"; text = "VERIFICATION"; ObjectID = "Unr-Ck-meA"; */
+"Unr-Ck-meA.text" = "VERIFICATION";
+
+/* Class = "UIButton"; normalTitle = "Resend Code"; ObjectID = "jDO-xD-RSV"; */
+"jDO-xD-RSV.normalTitle" = "Resend Code";
+
+/* Class = "UILabel"; text = "We've sent the code to your phone Number"; ObjectID = "qWT-zX-kSW"; */
+"qWT-zX-kSW.text" = "We've sent the code to your phone Number";

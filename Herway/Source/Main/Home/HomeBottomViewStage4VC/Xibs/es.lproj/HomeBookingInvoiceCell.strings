@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "Pickup"; ObjectID = "2bv-Ld-fLq"; */
+"2bv-Ld-fLq.text" = "Levantar";
+
+/* Class = "UILabel"; text = "Ride Details"; ObjectID = "6qa-78-iwZ"; */
+"6qa-78-iwZ.text" = "Detalles del viaje";
+
+/* Class = "UILabel"; text = "Total Payable Amount"; ObjectID = "7PJ-I7-iep"; */
+"7PJ-I7-iep.text" = "Importe total a pagar";
+
+/* Class = "UILabel"; text = "Drop"; ObjectID = "EDh-MD-G4U"; */
+"EDh-MD-G4U.text" = "Soltar";
+
+/* Class = "UILabel"; text = "Distance fare"; ObjectID = "Eeg-Td-EWJ"; */
+"Eeg-Td-EWJ.text" = "Tarifa de distancia";
+
+/* Class = "UILabel"; text = "6 Min"; ObjectID = "HHG-TC-mfj"; */
+"HHG-TC-mfj.text" = "6 mínimo";
+
+/* Class = "UIButton"; normalTitle = "PAY ONLINE"; ObjectID = "Mbf-kl-TNn"; */
+"Mbf-kl-TNn.normalTitle" = "PAGA EN LINEA";
+
+/* Class = "UILabel"; text = "Time Taken"; ObjectID = "NPP-MM-uGV"; */
+"NPP-MM-uGV.text" = "Tiempo tomado";
+
+/* Class = "UILabel"; text = "1003, state st# 56-A life, Rawalpindi House # 23-H, punjab, Pakistan"; ObjectID = "Sbo-4v-gTF"; */
+"Sbo-4v-gTF.text" = "1003, state st# 56-A life, Rawalpindi House # 23-H, punjab, Pakistan";
+
+/* Class = "UILabel"; text = "12.4 KM"; ObjectID = "UF8-Oa-JXa"; */
+"UF8-Oa-JXa.text" = "12.4 kilómetros";
+
+/* Class = "UILabel"; text = "Booking ID"; ObjectID = "Vf0-jO-qwE"; */
+"Vf0-jO-qwE.text" = "ID de reserva";
+
+/* Class = "UILabel"; text = "1003, state st# 56-A life, lahore, punjab, Pakistan"; ObjectID = "Wtp-Aw-WVk"; */
+"Wtp-Aw-WVk.text" = "1003, state st# 56-A life, lahore, punjab, Pakistan";
+
+/* Class = "UILabel"; text = "Invoice"; ObjectID = "cEC-lX-3er"; */
+"cEC-lX-3er.text" = "Factura";
+
+/* Class = "UILabel"; text = "R0"; ObjectID = "cJf-xD-Xq1"; */
+"cJf-xD-Xq1.text" = "R0";
+
+/* Class = "UILabel"; text = "R0"; ObjectID = "d6O-q9-SMl"; */
+"d6O-q9-SMl.text" = "R0";
+
+/* Class = "UILabel"; text = "Waiting Charges"; ObjectID = "e5U-g4-xcM"; */
+"e5U-g4-xcM.text" = "cargos de espera";
+
+/* Class = "UILabel"; text = "Distance Travelled"; ObjectID = "eUD-zi-96U"; */
+"eUD-zi-96U.text" = "Distancia recorrida";
+
+/* Class = "UIButton"; normalTitle = "R144.5"; ObjectID = "eVy-sr-7gw"; */
+"eVy-sr-7gw.normalTitle" = "R144.5";
+
+/* Class = "UILabel"; text = "KWDF44556"; ObjectID = "epL-DR-iut"; */
+"epL-DR-iut.text" = "KWDF44556";
+
+/* Class = "UILabel"; text = "R122.4"; ObjectID = "fNs-RD-tsM"; */
+"fNs-RD-tsM.text" = "R122.4";
+
+/* Class = "UILabel"; text = "Tax Applied"; ObjectID = "haR-ye-Rrn"; */
+"haR-ye-Rrn.text" = "Impuesto Aplicado";
+
+/* Class = "UILabel"; text = "Payment Mode"; ObjectID = "nfr-1l-I8x"; */
+"nfr-1l-I8x.text" = "Payment Mode";
+
+/* Class = "UILabel"; text = "CASH"; ObjectID = "uc2-KS-uoE"; */
+"uc2-KS-uoE.text" = "DINERO";
